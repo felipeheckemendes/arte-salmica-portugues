@@ -29,6 +29,8 @@ Como cada adição costuma ser uma ou poucas partituras, não é necessário cri
 Neste repositório usamos exclusivamente arquivos `.byzx`, que permitem fazer gestionamento de versão.
 Ao salvar no **Neanes**, altere o tipo de arquivo de `.byz` (padrão) para `.byzx`.
 
+---
+
 ## Modelo padrão e tipografia
 Para garantir a uniformidade tipográfica, há um modelo padrão de documento que deve ser utilizado para todas as partituras deste repositório, que encontra-se no arquivo [blank-model.byzx](#)
 
@@ -36,6 +38,8 @@ Para garantir a uniformidade tipográfica, há um modelo padrão de documento qu
 Este modelo utiliza a fonte tipográfica **Coelacanth**, que deverá ser instalada para uma correta visualização:
 - [Coelacanth](https://font.download/font/coelacanth)
 - Para os "Neumas", utilizamos o **EZ Psaltica** que já vem pré-instalado no Neanes.
+
+---
 
 ## Convenção de Nomes de Arquivo
 
@@ -47,7 +51,7 @@ O idioma (ou idiomas) é indicado por um **prefixo em maiúsculas** separado do 
 <IDIOMA>-<nome-da-peca>-<tom>-<autor>.byzx
 ```
 
-### Exemplos
+#### Exemplos
 
 ```
 EL-Hino dos querubins-tom1-karamanis.byzx
@@ -56,7 +60,7 @@ EL-EN-Trisagion-tom2-breve.byzx
 EL-PT-EN-Christos anesti.byzx
 ```
 
-### Tags de Idioma
+#### Tags de Idioma
 
 | Tag   | Idioma                      |
 |-------|-----------------------------|
@@ -72,9 +76,7 @@ EL-PT-EN-Christos anesti.byzx
 
 Quando a partitura contiver **mais de um idioma**, combine as tags: `EL-PT`, `EL-EN-PT`, etc.
 
----
-
-## Convenção de Tom (Modo)
+#### Convenção de Tom (Modo)
 
 | Abreviação | Modo Eclesiástico        |
 |------------|--------------------------|
