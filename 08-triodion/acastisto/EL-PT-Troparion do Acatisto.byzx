@@ -617,7 +617,7 @@
         "id": 60,
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
-        "lyrics": "diz"
+        "lyrics": "e"
       },
       {
         "id": 61,
@@ -626,13 +626,13 @@
         "gorgonNeume": "Gorgon_Top",
         "accidental": "Flat_4_Right",
         "measureBarLeft": "MeasureBarRight",
-        "lyrics": "a"
+        "lyrics": "di"
       },
       {
         "id": 62,
         "elementType": "Note",
         "quantitativeNeume": "Apostrophos",
-        "lyrics": "a"
+        "lyrics": "iz"
       },
       {
         "id": 63,
@@ -1058,26 +1058,26 @@
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
         "ison": "Ison.Thi",
-        "lyrics": "ex"
+        "lyrics": "em"
       },
       {
         "id": 125,
         "elementType": "Note",
         "quantitativeNeume": "Petasti",
         "measureBarLeft": "MeasureBarRight",
-        "lyrics": "tá"
+        "lyrics": "êx"
       },
       {
         "id": 126,
         "elementType": "Note",
         "quantitativeNeume": "Elaphron",
-        "lyrics": "ti"
+        "lyrics": "ta"
       },
       {
         "id": 127,
         "elementType": "Note",
         "quantitativeNeume": "Oligon",
-        "lyrics": "co"
+        "lyrics": "se"
       },
       {
         "id": 128,
@@ -1333,7 +1333,6 @@
         "elementType": "Note",
         "quantitativeNeume": "Kentemata",
         "gorgonNeume": "Gorgon_Top",
-        "measureBarLeft": "MeasureBarTop",
         "lyrics": "a"
       },
       {
@@ -3418,7 +3417,7 @@
         "id": 459,
         "elementType": "Note",
         "quantitativeNeume": "Ison",
-        "lyrics": "i"
+        "lyrics": "I"
       },
       {
         "id": 460,
@@ -3459,13 +3458,19 @@
       {
         "id": 465,
         "elementType": "Note",
-        "quantitativeNeume": "KentemataPlusOligon",
-        "gorgonNeume": "Hemiolion",
-        "measureBarLeft": "MeasureBarTopAbove",
-        "lyrics": "a-da"
+        "quantitativeNeume": "Kentemata",
+        "gorgonNeume": "Gorgon_Top",
+        "lyrics": "a"
       },
       {
-        "id": 467,
+        "id": 471,
+        "elementType": "Note",
+        "quantitativeNeume": "Oligon",
+        "timeNeume": "Klasma_Top",
+        "lyrics": "da"
+      },
+      {
+        "id": 472,
         "elementType": "Martyria",
         "auto": true,
         "note": "Ni",
@@ -3477,7 +3482,7 @@
       }
     ],
     "lyrics": {
-      "text": "Ten do re ce bi do a or dem em se gre e e do en tão à ten da de Jo sé com ze lo ve e ei o O ar can jo diz a a a que é sem pre vir gem A que e le que ao de sce er in cli nou os céus con ti i do i nal te ra a do in tei ro em ti quan do-o ve jo o no ven tre teu a for ma de se er vo to man do ex tá ti co eu cla mo a Ti Sal ve No oi va I nes po sa a da\n\nSal ve No oi va I nes po sa a a a da\n\nTο προ στα χθεν μυ στι κως λα βων εν γνω ω ω σει εν τη σκη νη του Ι ω σηφ σπȣ δη ε πε ε ε στη ο α σω μα τος λε ε γων τη α πει ρο γα μω ο κλι ι νας τη κα τα βα α σει τους ου ρα νους χω ρει ει ται α ναλ λοι ω ω τως ο ο λως εν σοι ον και βλε πω ω εν μη τρα σȣ λα βο ντα δου ου λου μορ φην ε ξι στα μαι κραυ γα ζω ων σοι Χαι ρε Νυ υμ φη Α νυ υμ φε ευ τε\n\nΧαι ρε Νυ υμ φη Α νυμ φευ τε ε ε ε\n\nUm man da men to se cre to a ao an an jo-se fez en tão na ten da de Jo sé um gran de-e ve e en to O ar can jo diz a a a vir gem pro me ti da A que e le que ar que ou ou ou o véu do céu con ti i do i nal te ra a do in tei ro em ti quan do ve jo o no ven tre teu um ser vo pu u ro a ssim ex tá ti co eu cla mo o te Sal ve No oi va I nes po sa a da\n\nSal ve No oi va i nes po sa a a a-da"
+      "text": "Ten do re ce bi do a or dem em se gre e e do en tão à ten da de Jo sé com ze lo ve e ei o O ar can jo e di iz a que é sem pre vir gem A que e le que ao de sce er in cli nou os céus con ti i do i nal te ra a do in tei ro em ti quan do-o ve jo o no ven tre teu a for ma de se er vo to man do em êx ta se eu cla mo a Ti Sal ve No oi va I nes po sa a da\n\nSal ve No oi va I nes po sa a a a da\n\nTο προ στα χθεν μυ στι κως λα βων εν γνω ω ω σει εν τη σκη νη του Ι ω σηφ σπȣ δη ε πε ε ε στη ο α σω μα τος λε ε γων τη α πει ρο γα μω ο κλι ι νας τη κα τα βα α σει τους ου ρα νους χω ρει ει ται α ναλ λοι ω ω τως ο ο λως εν σοι ον και βλε πω ω εν μη τρα σȣ λα βο ντα δου ου λου μορ φην ε ξι στα μαι κραυ γα ζω ων σοι Χαι ρε Νυ υμ φη Α νυ υμ φε ευ τε\n\nΧαι ρε Νυ υμ φη Α νυμ φευ τε ε ε ε\n\nUm man da men to se cre to a ao an an jo-se fez en tão na ten da de Jo sé um gran de-e ve e en to O ar can jo diz a a a vir gem pro me ti da A que e le que ar que ou ou ou o véu do céu con ti i do i nal te ra a do in tei ro em ti quan do ve jo o no ven tre teu um ser vo pu u ro a ssim ex tá ti co eu cla mo o te Sal ve No oi va I nes po sa a da\n\nSal ve No oi va I nes po sa a a a da"
     }
   }
 }
