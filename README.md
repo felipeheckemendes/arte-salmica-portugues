@@ -35,7 +35,7 @@ Para garantir a uniformidade tipográfica, há um modelo padrão de documento qu
 ### Fonte padrão
 Este modelo utiliza a fonte tipográfica **Coelacanth**, que deverá ser instalada para uma correta visualização:
 - [Coelacanth](https://font.download/font/coelacanth)
-Para os Neumas, utilizamos o **EZ Psaltica** que já vem pré-instalado no Neanes.
+- Para os "Neumas", utilizamos o **EZ Psaltica** que já vem pré-instalado no Neanes.
 
 ## Convenção de Nomes de Arquivo
 
