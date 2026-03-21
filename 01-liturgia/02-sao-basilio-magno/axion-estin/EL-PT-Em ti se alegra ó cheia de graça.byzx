@@ -303,23 +303,6 @@
         "marginBottom": 1.3333333333333333
       },
       {
-        "id": 4,
-        "elementType": "TextBox",
-        "alignment": "right",
-        "color": "#0032A0",
-        "content": "Nome do autor (se houver)",
-        "contentBottom": "",
-        "contentLeft": "",
-        "contentCenter": "",
-        "contentRight": "",
-        "fontSize": 14.666666666666666,
-        "fontFamily": "Coelacanth",
-        "strokeWidth": 0,
-        "height": 18.399999618530273,
-        "marginTop": 0,
-        "marginBottom": 8
-      },
-      {
         "id": 2,
         "elementType": "ModeKey",
         "templateId": 800,
