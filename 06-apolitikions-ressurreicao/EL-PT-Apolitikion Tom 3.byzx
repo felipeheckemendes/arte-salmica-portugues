@@ -105,7 +105,7 @@
           "content": "",
           "contentBottom": "",
           "contentLeft": "",
-          "contentCenter": "-🙘-    Apolitikions da Ressurreição - Tom 2    -🙚-",
+          "contentCenter": "-🙘-    Apolitikions da Ressurreição - Tom 3    -🙚-",
           "contentRight": "$p",
           "fontSize": 17.333333333333332,
           "fontFamily": "Coelacanth",
@@ -290,7 +290,7 @@
         "elementType": "TextBox",
         "alignment": "center",
         "color": "#000000",
-        "content": "Rejubilam-se os céus",
+        "content": "Rejubilam-se os céus - Tom 3",
         "contentBottom": "",
         "contentLeft": "",
         "contentCenter": "",
@@ -337,7 +337,7 @@
       {
         "id": 7,
         "elementType": "DropCap",
-        "content": "Q",
+        "content": "R",
         "fontFamily": "Source Serif",
         "fontSize": 80,
         "fontWeight": "400",
@@ -351,7 +351,7 @@
         "id": 719,
         "elementType": "Note",
         "quantitativeNeume": "Ison",
-        "lyrics": "Re"
+        "lyrics": "e"
       },
       {
         "id": 720,
@@ -991,7 +991,7 @@
         "elementType": "TextBox",
         "alignment": "center",
         "color": "#000000",
-        "content": "Efrenésto ta uránia",
+        "content": "Efrenésto ta uránia - Tom 3",
         "contentBottom": "",
         "contentLeft": "",
         "contentCenter": "",
@@ -1708,7 +1708,7 @@
       }
     ],
     "lyrics": {
-      "text": "QRe ju bi lam se os cé eus e a le gra se a te e e rra Por que de mons trou ou seu po der com a for ça do seu bra ço o Sen nhor pi sou a mo or te com a a mo or te pri mo ge e ni to do os mor tos se tor nou e a ssim do ven tre do Ha des nos li vrou e ao mun do deu gran an de mi se ri có ór di i a\n\nE_ fre nes tho ta u ra ni a a ga li as tho ta e pi gi i a o ti e pi i se kra tos en vra xhi o ni af tu o Ki ri os e pa ti se to tha na a to to on tha a na a ton pro to to kos ton ne kron e ge ne to ek ki li as A du e ri ssa to i mas ke pa res xhe to ko os mo to me ga e e le e _"
+      "text": "Re ju bi lam se os cé eus e a le gra se a te e e rra Por que de mons trou ou seu po der com a for ça do seu bra ço o Sen nhor pi sou a mo or te com a a mo or te pri mo ge e ni to do os mor tos se tor nou e a ssim do ven tre do Ha des nos li vrou e ao mun do deu gran an de mi se ri có ór di i a\n\nE_ fre nes tho ta u ra ni a a ga li as tho ta e pi gi i a o ti e pi i se kra tos en vra xhi o ni af tu o Ki ri os e pa ti se to tha na a to to on tha a na a ton pro to to kos ton ne kron e ge ne to ek ki li as A du e ri ssa to i mas ke pa res xhe to ko os mo to me ga e e le e _"
     }
   }
 }

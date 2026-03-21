@@ -1474,11 +1474,6 @@
         "marginBottom": 0
       },
       {
-        "id": 452,
-        "elementType": "Note",
-        "quantitativeNeume": "OligonPlusKentimaBelow"
-      },
-      {
         "id": 243,
         "elementType": "DropCap",
         "content": "L",
@@ -1556,7 +1551,7 @@
         "id": 254,
         "elementType": "Martyria",
         "auto": true,
-        "note": "ZoHigh",
+        "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic"
       },
@@ -1631,7 +1626,7 @@
         "id": 266,
         "elementType": "Martyria",
         "auto": true,
-        "note": "ZoHigh",
+        "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic"
       },
@@ -1716,7 +1711,7 @@
         "lineBreakType": "Left",
         "elementType": "Martyria",
         "auto": true,
-        "note": "ZoHigh",
+        "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic",
         "alignRight": true
@@ -1797,7 +1792,7 @@
         "id": 292,
         "elementType": "Martyria",
         "auto": true,
-        "note": "ZoHigh",
+        "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic"
       },
@@ -1868,7 +1863,7 @@
         "id": 303,
         "elementType": "Martyria",
         "auto": true,
-        "note": "ZoHigh",
+        "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic"
       },
@@ -2092,7 +2087,7 @@
         "id": 336,
         "elementType": "Martyria",
         "auto": true,
-        "note": "ZoHigh",
+        "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic"
       },
@@ -2190,7 +2185,7 @@
         "lineBreakType": "Left",
         "elementType": "Martyria",
         "auto": true,
-        "note": "ZoHigh",
+        "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic",
         "alignRight": true
@@ -2270,7 +2265,7 @@
         "id": 427,
         "elementType": "Martyria",
         "auto": true,
-        "note": "ZoHigh",
+        "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic"
       },
@@ -2347,7 +2342,7 @@
         "id": 440,
         "elementType": "Martyria",
         "auto": true,
-        "note": "ZoHigh",
+        "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic"
       },
@@ -2516,7 +2511,7 @@
         "id": 397,
         "elementType": "Martyria",
         "auto": true,
-        "note": "ZoHigh",
+        "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic"
       },
@@ -2568,7 +2563,7 @@
         "id": 405,
         "elementType": "Martyria",
         "auto": true,
-        "note": "ZoHigh",
+        "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic"
       },
@@ -2626,7 +2621,7 @@
         "id": 414,
         "elementType": "Martyria",
         "auto": true,
-        "note": "ZoHigh",
+        "note": "Thi",
         "rootSign": "SoftChromaticSquiggle",
         "scale": "SoftChromatic",
         "alignRight": true
@@ -2636,7 +2631,7 @@
       }
     ],
     "lyrics": {
-      "text": "Ben di ze ó mi nha al ma o Se nhor e to do o meu ser ben di ga o seu San to no o me\n\nTes pres vi es tis The o tó ku So ter so sson i mas\n\nBen di ze ó mi nha al ma o Se nhor e não te es que ças ne nhum de seus be ne fí ci i os\n\nPe las o ra ções da The o tó kos Sal va dor sa va a nós\n\nO_ Se nhor es ta be le ceu o seu tro no no céu e a su a re a le za tu do do mi na\n\nTes pres vi es tis The o tó ku So ter so sson i ma a as\n\n\n\n_ Lou va ó mi nha al ma o Se nhor Lou va rei o Se nhor em mi nha vi da Can ta rei a Deus en quan to eu e xis tir\n\nSo sson i ma as I e The u o a nas ta a a as ek ne kron psa lon das si A li lu i a Bem a ven tu ra do a que le cu jo au xí li o é o Deus de Ja có su a es pe ran ça es tá no Se nhor o seu Deus\n\nSal va nos ó Fi i lho de Deus que re ssu sci ta as te dos mo or tos a Ti can ta mos A le lu i a O_ Se nhor rei na rá e ter na men te o teu Deus ó Si ão de ge ra ção em ge ra ção"
+      "text": "Ben di ze ó mi nha al ma o Se nhor e to do o meu ser ben di ga o seu San to no o me\n\nTes pres vi es tis The o tó ku So ter so sson i mas\n\nBen di ze ó mi nha al ma o Se nhor e não te es que ças ne nhum de seus be ne fí ci i os\n\nPe las o ra ções da The o tó kos Sal va dor sa va a nós\n\nO_ Se nhor es ta be le ceu o seu tro no no céu e a su a re a le za tu do do mi na\n\nTes pres vi es tis The o tó ku So ter so sson i ma a as\n\n\n\nLou va ó mi nha al ma o Se nhor Lou va rei o Se nhor em mi nha vi da Can ta rei a Deus en quan to eu e xis tir\n\nSo sson i ma as I e The u o a nas ta a a as ek ne kron psa lon das si A li lu i a Bem a ven tu ra do a que le cu jo au xí li o é o Deus de Ja có su a es pe ran ça es tá no Se nhor o seu Deus\n\nSal va nos ó Fi i lho de Deus que re ssu sci ta as te dos mo or tos a Ti can ta mos A le lu i a O_ Se nhor rei na rá e ter na men te o teu Deus ó Si ão de ge ra ção em ge ra ção"
     }
   }
 }

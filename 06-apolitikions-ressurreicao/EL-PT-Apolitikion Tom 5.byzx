@@ -290,7 +290,7 @@
         "elementType": "TextBox",
         "alignment": "center",
         "color": "#000000",
-        "content": "O coeterno verbo",
+        "content": "O coeterno verbo - Tom 5",
         "contentBottom": "",
         "contentLeft": "",
         "contentCenter": "",
@@ -338,7 +338,7 @@
       {
         "id": 7,
         "elementType": "DropCap",
-        "content": "Q",
+        "content": "O",
         "fontFamily": "Source Serif",
         "fontSize": 80,
         "fontWeight": "400",
@@ -351,8 +351,7 @@
       {
         "id": 719,
         "elementType": "Note",
-        "quantitativeNeume": "Ison",
-        "lyrics": "O"
+        "quantitativeNeume": "Ison"
       },
       {
         "id": 720,
@@ -968,7 +967,7 @@
         "elementType": "TextBox",
         "alignment": "center",
         "color": "#000000",
-        "content": "Ton sinánarchon lógon",
+        "content": "Ton sinánarchon lógon - Tom 5",
         "contentBottom": "",
         "contentLeft": "",
         "contentCenter": "",
@@ -1608,7 +1607,7 @@
       }
     ],
     "lyrics": {
-      "text": "QO co e te er no Ver bo ao Pai e ao Es pí ri to o que na sceu da Vir gem pa ra a no ssa sal va ção ce le bre mos ó fi é éis e lou ve e mos por que na car ne e le quis a scen der à su a Cru uz e a mo or te su po or tar e re ssu sci tar os mo or tos na glo ri ó sa re e ssu u rrei ei ção\n\nTon si na nar chon lo gon Pa tri ke Pnev ma ti ton ek Par the nu tech then ta is so ti ri an i mon a ni mni so men pis ti ke pros ki ni so men o ti i do ki se sar ki a nel thin en to sta vro ke tha na ton i po mi nan ke e gi re tus te thne o o ta en ti en do kso a nas ta si af tu"
+      "text": "O_ co e te er no Ver bo ao Pai e ao Es pí ri to o que na sceu da Vir gem pa ra a no ssa sal va ção ce le bre mos ó fi é éis e lou ve e mos por que na car ne e le quis a scen der à su a Cru uz e a mo or te su po or tar e re ssu sci tar os mo or tos na glo ri ó sa re e ssu u rrei ei ção\n\nTon si na nar chon lo gon Pa tri ke Pnev ma ti ton ek Par the nu tech then ta is so ti ri an i mon a ni mni so men pis ti ke pros ki ni so men o ti i do ki se sar ki a nel thin en to sta vro ke tha na ton i po mi nan ke e gi re tus te thne o o ta en ti en do kso a nas ta si af tu"
     }
   }
 }
